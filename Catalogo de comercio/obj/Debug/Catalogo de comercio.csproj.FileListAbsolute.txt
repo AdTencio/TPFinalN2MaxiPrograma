@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\bin\Debug\Catalogo de comercio.exe.config
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\bin\Debug\Catalogo de comercio.exe
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\bin\Debug\Catalogo de comercio.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo de comercio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo de comercio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo_de_comercio.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo de comercio.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo de comercio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo de comercio.exe
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo de comercio.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo_de_comercio.Catalogo.resources
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo_de_comercio.AgregarArticulo.resources
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\obj\Debug\Catalogo de comercio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\Diseñoweb y programacion\MaxiPrograma\Curso C# Nivel 2\TPFinalNivel2_AdrianTournour\Catalogo de comercio\bin\Debug\negocio.pdb
